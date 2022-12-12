@@ -30,7 +30,7 @@ public class P3_PerezB {
     boolean allok = true;
     int fcanvi;
     int icanvi;
-
+    int prova;
     do {
       do {
         System.out.print("Numero de ID: ");
